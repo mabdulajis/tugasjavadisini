@@ -1,0 +1,7 @@
+Nama: M. Abdul Ajis
+tugas: tuga ui/ux tugas 1
+Kelompok: 04 - Pak Edo
+Instansi/Kampus: Universitas bina sarana informatika
+Link html : file:///C:/TUGAS%20JAVASCIPT/tugas1java.html
+
+link GITHUB : https://github.com/mabdulajis/tugasjavadisini.git
